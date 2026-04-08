@@ -1,3 +1,6 @@
+### [2026-04-08] Update
+- Automated the deployment pipeline with new configuration scripts.
+
 ### [2026-04-02] Update
 - Consolidated the design system tokens into a unified theme provider.
 
